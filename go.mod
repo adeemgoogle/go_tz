@@ -1,4 +1,4 @@
-module go
+module go_tz
 
 go 1.19
 
